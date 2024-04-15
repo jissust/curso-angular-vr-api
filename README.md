@@ -6,5 +6,5 @@ La funcionalidad de la api, es para nutrir y guardar información para o desde e
 - 
 Tecnologías utilizadas:
 - DB: Mongodb
-- express
+- expressjs
 - nodejs
